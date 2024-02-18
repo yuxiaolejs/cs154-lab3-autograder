@@ -1,6 +1,9 @@
 # CS 154 Lab03 autograder v0.0.5
 Yes, it is an autograder for CS154, lab3
 
+## Known problem:
+- Not testing zero register being written to
+
 Requirement:
 - Python
 - pyrtl
